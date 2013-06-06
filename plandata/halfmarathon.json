@@ -1,0 +1,400 @@
+{
+	"weeks": [
+		{
+			"weekNum": 1,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["2 Mi"],
+					"pace": ["10:40"]
+				},
+			"T": {
+					"activity": "rest"
+				},
+			"W": {
+					"activity": "running",
+					"type": "tempo",
+					"distance": ["1 Mi", "3 Mi", "1 Mi"],
+					"pace": ["Warmup", "9:04", "Cool"]
+				},
+			"Th": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["2 Mi"],
+					"pace": ["10:40"]
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "long",
+					"distance": ["8 Mi"],
+					"pace": ["10:40"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		},
+		{
+			"weekNum": 2,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["3 Mi"],
+					"pace": ["10:37"]
+				},
+			"T": {
+					"activity": "rest"
+				},
+			"W": {
+					"activity": "running",
+					"type": "speedwork",
+					"distance": ["1 Mi", "1 Mi", "800", "1 Mi", "800"],
+					"pace": ["Warmup", "8:32", "Jog", "8:32" "Jog"]
+				},
+			"Th": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["2 Mi"],
+					"pace": ["10:37"]
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "long",
+					"distance": ["8 Mi"],
+					"pace": ["10:37"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		},
+		{
+			"weekNum": 3,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["2 Mi"],
+					"pace": ["10:35"]
+				},
+			"T": {
+					"activity": "rest"
+				},
+			"W": {
+					"activity": "running",
+					"type": "tempo",
+					"distance": ["1 Mi", "3 Mi", "1 Mi"],
+					"pace": ["Warmup", "9:00", "Cool"]
+				},
+			"Th": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["2 Mi"],
+					"pace": ["10:35"]
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "long",
+					"distance": ["9 Mi"],
+					"pace": ["10:35"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		},
+		{
+			"weekNum": 4,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["2 Mi"],
+					"pace": ["10:33"]
+				},
+			"T": {
+					"activity": "rest"
+				},
+			"W": {
+					"activity": "running",
+					"type": "tempo",
+					"distance": ["1 Mi", "3 Mi", "1 Mi"],
+					"pace": ["Warmup", "8:58", "Cool"]
+				},
+			"Th": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["2 Mi"],
+					"pace": ["10:33"]
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "long",
+					"distance": ["10 Mi"],
+					"pace": ["10:33"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		},
+		{
+			"weekNum": 5,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["3 Mi"],
+					"pace": ["10:31"]
+				},
+			"T": {
+					"activity": "rest"
+				},
+			"W": {
+					"activity": "running",
+					"type": "speedwork",
+					"distance": ["1 Mi", "1 Mi", "800", "1 Mi", "800"],
+					"pace": ["Warmup", "8:26", "Jog", "8:26" "Jog"]
+				},
+			"Th": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["2 Mi"],
+					"pace": ["10:31"]
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "long",
+					"distance": ["8 Mi"],
+					"pace": ["10:40"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		},
+		{
+			"weekNum": 6,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["4 Mi"],
+					"pace": ["10:29"]
+				},
+			"T": {
+					"activity": "rest"
+				},
+			"W": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["4 Mi"],
+					"pace": ["10:29"]
+				},
+			"Th": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["4 Mi"],
+					"pace": ["10:29"]
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["4 Mi"],
+					"pace": ["10:29"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		},
+		{
+			"weekNum": 7,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["3 Mi"],
+					"pace": ["10:29"]
+				},
+			"T": {
+					"activity": "rest"
+				},
+			"W": {
+					"activity": "running",
+					"type": "tempo",
+					"distance": ["1 Mi", "3 Mi", "1 Mi"],
+					"pace": ["Warmup", "8:54", "Cool"]
+				},
+			"Th": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["3 Mi"],
+					"pace": ["10:29"]
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "long",
+					"distance": ["10 Mi"],
+					"pace": ["10:29"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		},
+		{
+			"weekNum": 8,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["3 Mi"],
+					"pace": ["10:27"]
+				},
+			"T": {
+					"activity": "rest"
+				},
+			"W": {
+					"activity": "running",
+					"type": "tempo",
+					"distance": ["1 Mi", "4 Mi", "1 Mi"],
+					"pace": ["Warmup", "8:57", "Cool"]
+				},
+			"Th": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["2 Mi"],
+					"pace": ["10:27"]
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "long",
+					"distance": ["11 Mi"],
+					"pace": ["10:27"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		},
+		{
+			"weekNum": 9,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["3 Mi"],
+					"pace": ["10:25"]
+				},
+			"T": {
+					"activity": "rest"
+				},
+			"W": {
+					"activity": "running",
+					"type": "speedwork",
+					"distance": ["1 Mi", "1 Mi", "800", "1 Mi", "800", "1 Mi", "1 Mi"],
+					"pace": ["Warmup", "8:20", "Jog", "8:20" "Jog", "8:20", "Cool"]
+				},
+			"Th": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["3 Mi"],
+					"pace": ["10:25"]
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "long",
+					"distance": ["11 Mi"],
+					"pace": ["10:25"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		},
+		{
+			"weekNum": 10,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["3 Mi"],
+					"pace": ["10:23"]
+				},
+			"T": {
+					"activity": "rest"
+				},
+			"W": {
+					"activity": "running",
+					"type": "tempo",
+					"distance": ["1 Mi", "4 Mi", "1 Mi"],
+					"pace": ["Warmup", "8:53", "Cool"]
+				},
+			"Th": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["3 Mi"],
+					"pace": ["10:23"]
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "long",
+					"distance": ["12 Mi"],
+					"pace": ["10:23"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		},
+		{
+			"weekNum": 11,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["3 Mi"],
+					"pace": ["10:21"]
+				},
+			"T": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["3 Mi"],
+					"pace": ["10:21"]
+				},
+			"W": {
+					"activity": "running",
+					"type": "speedwork",
+					"distance": ["1 Mi", "1 Mi", "800", "1 Mi", "800"],
+					"pace": ["Warmup", "8:17", "Jog", "8:17" "Jog"]
+				},
+			"Th": {
+					"activity": "rest"
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "long",
+					"distance": ["13.1 Mi"],
+					"pace": ["9:00"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		}
+	]
+}

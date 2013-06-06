@@ -1,0 +1,40 @@
+{
+	"weeks": [
+		{
+			"weekNum": 1,
+			"M": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["2 Mi"],
+					"pace": ["10:40"]
+				},
+			"T": {
+					"activity": "rest"
+				},
+			"W": {
+					"activity": "running",
+					"type": "tempo",
+					"distance": ["1 Mi", "3 Mi", "1 Mi"],
+					"pace": ["Warmup", "9:04", "Cool"]
+				},
+			"Th": {
+					"activity": "running",
+					"type": "easy",
+					"distance": ["2 Mi"],
+					"pace": ["10:40"]
+				},
+			"F": {
+					"activity": "rest"
+				},
+			"Sa": {
+					"activity": "running",
+					"type": "long",
+					"distance": ["8 Mi"],
+					"pace": ["10:40"]
+				},
+			"Su": {
+					"activity": "rest"
+				}
+		}
+	]
+}
